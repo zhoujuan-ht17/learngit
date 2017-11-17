@@ -4,3 +4,4 @@ git has a mutable index called stage.
 git track changes.
 creating a new branch is quick.
 test branch oprate.
+createing a new branch is quick & simple.

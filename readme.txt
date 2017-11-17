@@ -5,4 +5,4 @@ git track changes.
 creating a new branch is quick.
 test branch oprate.
 creating a new  branch is quick and simple.
-
+test turn off fast_forward.
